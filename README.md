@@ -36,3 +36,10 @@ pipe.run(source="/data/*.parquet")
 - Python 3.9+
 - Optrix 0.1+
 - AMD ROCm 6.0+ (optional)
+
+
+---
+
+**Developed by Apex Ridge Technologies, Inc.**
+
+2805 E Cottonwood Pkwy, Suite 100, Salt Lake City, UT 84121
